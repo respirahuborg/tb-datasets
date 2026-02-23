@@ -1,0 +1,22 @@
+# Checkpoints
+checkpoints/
+checkpoints_*/
+
+# Data directories
+data/longitudinal/
+data/solicited/
+data/metadata/
+
+# HEAR embeddings/features
+hear/
+
+# Environment
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
